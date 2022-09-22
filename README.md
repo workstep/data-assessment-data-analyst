@@ -3,7 +3,7 @@ Data Analyst Assessment for the Data Group at Workstep
 
 ## Introduction
 
-Welcome to the Workstep Data Team - Data Analyst Assessment!  This particular assessment will be grappling with data that pertains to our Candidation Acquisition engine.
+Welcome to the Workstep Data Team - Data Analyst Assessment!  This particular assessment will be grappling with data that pertains to our Candidate Acquisition engine.
 
 HIRE is a product of Workstep that enables employers and employees in the frontline hourly supply-chain commercial segment.  The employees in this sector are generally comprised of warehouse, production, manufacturing, skilled trade, and transportation talent.  Companies use HIRE in order to advertise, interview and hire from this talent pool to fill their workforce needs.
 
